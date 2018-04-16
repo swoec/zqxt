@@ -1,4 +1,6 @@
 # 
 
 a simple project 
-by using python webframework
+by using python webframework;
+deploy in bae clouds;
+
