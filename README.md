@@ -1,3 +1,4 @@
 # 
 
-a sample project 
+a simple project 
+by using python webframework
